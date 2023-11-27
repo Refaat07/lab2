@@ -1,10 +1,10 @@
 # lab2
 
-#deleting a branch
+# deleting a branch
 ``` git branch -d branchname ```
 
 
-#deleting a branch remotely
+# deleting a branch remotely
 ``` git push origin --delete branchname ```
 
 ![Screenshot from 2023-11-27 22-18-20](https://github.com/Refaat07/lab2/assets/47618425/1c8565c7-a7d0-41c4-8a54-2b5b694d5e98)
